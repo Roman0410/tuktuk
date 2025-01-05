@@ -3407,11 +3407,11 @@ section.catalog {
     }
     .close {
       position: absolute;
-      top: 40px;
+      top: 25px;
       right: 40px;
       cursor: pointer;
       @media screen and (max-width: 768px) {
-        top: 40px;
+        top: 25px;
         right: 24px;
       }
     }
@@ -3422,7 +3422,7 @@ section.catalog {
     overflow: hidden;
     position: relative;
     padding: 40px;
-    padding-top: 100px;
+    padding-top: 75px;
     .wrapper {
       display: flex;
       align-items: flex-end;
